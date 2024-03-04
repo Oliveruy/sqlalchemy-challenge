@@ -37,6 +37,8 @@ Once the server is running, you can access the API routes using a web browser.
 - Flask
 - SQLAlchemy
 - Pandas
+- Matplotlib
+- Datetime
 
 
 
